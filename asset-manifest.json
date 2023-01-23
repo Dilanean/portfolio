@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3849b160.css",
-    "main.js": "/portfolio/static/js/main.b844c0de.js",
+    "main.js": "/portfolio/static/js/main.5482e647.js",
     "static/media/Torino.png": "/portfolio/static/media/Torino.6e8f5d61543093db6425.png",
     "static/media/Restaurant.png": "/portfolio/static/media/Restaurant.b75a02e0c915d79a905b.png",
     "static/media/Basil.png": "/portfolio/static/media/Basil.194b3e47438774cbd6b0.png",
@@ -15,10 +15,10 @@
     "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "index.html": "/portfolio/index.html",
     "main.3849b160.css.map": "/portfolio/static/css/main.3849b160.css.map",
-    "main.b844c0de.js.map": "/portfolio/static/js/main.b844c0de.js.map"
+    "main.5482e647.js.map": "/portfolio/static/js/main.5482e647.js.map"
   },
   "entrypoints": [
     "static/css/main.3849b160.css",
-    "static/js/main.b844c0de.js"
+    "static/js/main.5482e647.js"
   ]
 }
