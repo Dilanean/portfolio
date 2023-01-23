@@ -20,7 +20,7 @@ function Home() {
                         </li>
                         <li className="content-list__item">
                             <h2 className="title-2">Languages</h2>
-                            <p>English , Italian , Russian , Romania</p>
+                            <p>English , Italian , Russian , Romanian</p>
                         </li>
                     </ul>
 

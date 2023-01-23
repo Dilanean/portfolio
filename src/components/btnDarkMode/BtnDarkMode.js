@@ -1,6 +1,6 @@
 import React from 'react'
-import sun from "./../../img/icons/sun.svg"
-import moon from "./../../img/icons/moon.svg"
+import sun from "./../../helpers/icons/sun.svg"
+import moon from "./../../helpers/icons/moon.svg"
 import "./style.css"
 import { useState, useEffect,useRef } from 'react'
 

@@ -1,9 +1,9 @@
-import Basil from "./../img/projects/Basil.png"
-import Torino from "./../img/projects/Torino.png"
-import Restaurant from "./../img/projects/Restaurant.png"
-import Portfolio from "./../img/projects/Portfolio.png"
-import EmailValidation from "./../img/projects/EmailValidation.png"
-import Calculator from "./../img/projects/Calculator.png"
+import Basil from "./projects/Basil.png"
+import Torino from "./projects/Torino.png"
+import Restaurant from "./projects/Restaurant.png"
+import Portfolio from "./projects/Portfolio.png"
+import EmailValidation from "./projects/EmailValidation.png"
+import Calculator from "./projects/Calculator.png"
 
 
 
