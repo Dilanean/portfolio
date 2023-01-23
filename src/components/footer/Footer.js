@@ -1,7 +1,7 @@
 import "./style.css"
 import React from 'react'
 
-import gitHub from "./../../helpers/icons/gitHub.svg"
+import gitHub from "./../../helpers/icons/gitHub.svg"   
 
 function Footer() {
   return (
