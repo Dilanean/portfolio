@@ -1,5 +1,7 @@
 import "./styles/main.css";
+
 import { HashRouter as Router, Routes, Route} from "react-router-dom";
+
 
 
 import Navbar from "./components/navbar/Navbar";
@@ -14,11 +16,11 @@ import Contacts from "./pages/Contacts";
 
 function App() {
 
+  
 
   return (
     <div className="App">
- 
-     
+    
      <Router>
         <Navbar/> 
           
@@ -31,7 +33,6 @@ function App() {
         
         <Footer/>
      </Router>
-       
     </div>
   );
 }

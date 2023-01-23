@@ -65,6 +65,17 @@ body {
 
 
 
+.preloader{
+	width: 100vw;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	background-color: #000;
+}
 
 
 
@@ -82,6 +93,9 @@ body {
 
 .section {
 	padding: 70px 0;
+	display: grid;
+	align-items: center;
+	justify-content: center;
 }
 
 .title-1 {
@@ -181,26 +195,22 @@ body {
 .project-details {
 	margin: 0 auto;
 	max-width: 865px;
-
-	display: flex;
+    display: flex;
 	flex-direction: column;
 	align-items: center;
-
-	text-align: center;
+    text-align: center;
 }
 
 .project-details__cover {
 	max-width: 100%;
 	margin-bottom: 40px;
-
-	box-shadow: var(--box-shadow);
+    box-shadow: var(--box-shadow);
 	border-radius: 10px;
 }
 
 .project-details__desc {
 	margin-bottom: 30px;
-
-	font-weight: 700;
+    font-weight: 700;
 	font-size: 24px;
 	line-height: 1.3;
 }

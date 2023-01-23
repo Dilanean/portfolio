@@ -24,7 +24,7 @@ function Project() {
             {project.gitHubLink &&(
             <BtnGitHub link={project.gitHubLink}/>)}
 
-            <a className='view-site-link' href={project.viewSite} target="_blank">View Site</a>
+            <a className='view-site-link' href={project.viewSite} target="_blank" rel="noreferrer">View Site</a>
         </div>
     </div>
 </main>

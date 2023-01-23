@@ -1,6 +1,6 @@
 {
-  "homepage": "https://myusername.github.io/portfolio#",
-  "name": "portfolio",
+  "homepage": "https://Dilanean.github.io/portfolio-site",
+  "name": "portfolio-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

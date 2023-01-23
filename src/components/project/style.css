@@ -5,17 +5,18 @@
 	box-shadow: var(--box-shadow);
 	border-radius: 10px;
 	text-align: center;
-	border: 1px solid black;
+	border: 2px solid black;
 }
 
 .project:hover{
      box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.75);
 	 transition: 0.5s ease;
+	 transform: scale(1.1);
 }
 
 .project__img {
 	border-radius: 10px;
-	border: 1px solid tomato;
+	border: 1px solid black;
 	height: 170px;
 	padding: 3px;
 }

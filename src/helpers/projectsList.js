@@ -2,8 +2,8 @@ import Basil from "./projects/Basil.png"
 import Torino from "./projects/Torino.png"
 import Restaurant from "./projects/Restaurant.png"
 import Portfolio from "./projects/Portfolio.png"
-import EmailValidation from "./projects/EmailValidation.png"
-import Calculator from "./projects/Calculator.png"
+import Sushi from "./projects/Sushi.png" 
+import Velar from "./projects/Velar.png"
 
 
 
@@ -11,7 +11,7 @@ import Calculator from "./projects/Calculator.png"
 const projects = [
     {
         id:1,
-        title: "Negozio Vestiti",
+        title: "Shopping Online",
         skills: "React,JavaScript,HTML,CSS",
         img : Basil,
         imgBig: Basil,
@@ -31,7 +31,7 @@ const projects = [
     },
     {
         id:3,
-        title: "Dilanean Restaurant",
+        title: "Restaurant",
         skills: "JavaScript, HTML, SCSS, CSS,animations",
         img : Restaurant,
         imgBig: Restaurant,
@@ -41,7 +41,7 @@ const projects = [
     },
     {
         id:4,
-        title: "Portfolio Site",
+        title: "Portfolio",
         skills: "React, JavaScript, HTML, CSS",
         img : Portfolio,
         imgBig: Portfolio,
@@ -51,22 +51,22 @@ const projects = [
     },
     {
         id:5,
-        title: "Email Validation",
+        title: "Sushi Takeaway",
         skills: "JavaScript, HTML, SCSS,CSS",
-        img : EmailValidation,
-        imgBig: EmailValidation,
-        gitHubLink : "https://github.com/Dilanean/email-validation",
-        viewSite : " https://dilanean.github.io/email-validation/",
+        img :Sushi,
+        imgBig: Sushi,
+        gitHubLink : "https://github.com/Dilanean/TakeAway",
+        viewSite : "https://dilanean.github.io/TakeAway/",
 
     },
     {
         id:6,
-        title: "Calculator",
-        skills: "JavaScript, HTML, SCSS,CSS",
-        img : Calculator,
-        imgBig: Calculator,
-        gitHubLink : "https://github.com/Dilanean/Calculator",
-        viewSite : "https://dilanean.github.io/Calculator/",
+        title: "Land Rover Velar",
+        skills: "JQuery, HTML,CSS",
+        img : Velar,
+        imgBig: Velar,
+        gitHubLink : "https://github.com/Dilanean/Land-Rover",
+        viewSite : "https://dilanean.github.io/Land-Rover/",
 
     },
   

@@ -1,5 +1,5 @@
 import "./style.css"
-import gitHubIcon from "./../../helpers/icons/gitHub.svg"
+import gitHubIcon from "./../../helpers/icons/gitHub-black.svg"
 
 import React from 'react'
 
